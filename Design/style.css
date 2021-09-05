@@ -1,0 +1,84 @@
+.all{
+  margin: auto;
+  width: 1440px;
+  background: URL('images/pattern-background-desktop.svg');
+  background-repeat: no-repeat;
+  text-align: center;
+  border: 1px solid;
+  font-size: 16px;
+  background-color: hsl(225, 100%, 94%);
+}
+h1,h2{
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+}
+.d1{
+  background-color: white;
+  margin: 5% 35%;
+  width: 400px;
+  border-radius: 10px;
+}
+.d1 img{
+  width: 400px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+p{
+font-family: 'Red Hat Display', sans-serif;
+color: rgb(0,0,0,0.30);
+}
+.d2{
+  width: 76%;
+  background-color: hsl(225, 100%, 98%);
+  margin: 0 50px;
+  height: 80px;
+  border-radius: 10px;
+}
+.d2 img{
+  width: 15%;
+  float: left;
+  padding: 15px 20px;
+}
+.d2 h2{
+  font-size: 16px;
+  float: left;
+}
+.d2 p{
+  float: left;
+  width: 30%;
+  margin: 13% -88px;
+}
+.d2 a{
+  float: right;
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  width: 30%;
+      margin: 30px 10px
+}
+.d3{
+  display: inline-grid;
+  margin: 30px 50px;
+  width: 75%;
+}
+#b1{
+  padding: 13px 87px;
+  color: white;
+  width: 130px;
+  background-color: hsl(245, 75%, 52%);
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgb(0,0,255,0.50);
+}
+.d3 a{
+  text-decoration: none;
+  padding: 25px;
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 13px;
+  color: rgb(0,0,0,0.50);
+  font-weight: bold;
+
+}
+#b2{
+      padding: 20px 10px 10px 10px;
+}
